@@ -56,5 +56,5 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 
 ## Author
 
-- **Your Name** - [LinkedIn](https://www.linkedin.com/in/pradeep-panja) | [GitHub](https://github.com/pradeepkpanja)
+- **Pradeep Panja** - [LinkedIn](https://www.linkedin.com/in/pradeep-panja) | [GitHub](https://github.com/pradeepkpanja)
 
